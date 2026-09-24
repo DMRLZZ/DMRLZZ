@@ -16,12 +16,12 @@
 
 ## Sobre mí
 
-Desarrollador y científico de datos entre Colombia y España. Me interesa el punto exacto en el que un modelo deja de ser un notebook y se convierte en algo que alguien usa de verdad.
+Desarrollador y futuro científico de datos entre Colombia y España. Me interesa el punto exacto en el que un modelo deja de ser un notebook y se convierte en algo que alguien usa de verdad.
 
 - Desarrollo **soluciones de IA para problemas reales** en sectores muy distintos: logística, salud, fintech, retail y entretenimiento. El sector cambia, el método no.
 - **Tercer puesto a nivel nacional en España** con [OpenRoute](https://github.com/ComunidadIA-OS/OpenRoute), IA open source para optimización de rutas de reparto.
 - Los hackathons son mi campo de pruebas: 48 horas, un problema real y algo que funciona al final. Llevo unos cuantos.
-- Construí y mantengo [24-7vip.com](https://24-7vip.com) y [oryzz.com](https://oryzz.com).
+- Construí y mantengo [24-7vip.com](https://24-7vip.com),  [skysoulstudios.com](https://soulskystudios.com/) y [oryzz.com](https://oryzz.com) .
 - Portfolio y todas mis redes en un solo sitio: **[oryzz.com/m/david](https://oryzz.com/m/david)**
 
 ## Proyectos destacados
