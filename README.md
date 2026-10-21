@@ -23,6 +23,7 @@ Estudiante de **Ciencia de Datos e Inteligencia Artificial**, desarrollador y co
 - Desarrollo **soluciones de IA para problemas reales** en ámbitos como healthtech, logística, fintech, retail y entretenimiento.
 - Soy **socio de la [Sociedad Española de Inteligencia Artificial en Biomedicina (IABiomed)](https://iabiomed.org/)**.
 - Fui **finalista del Reto IDONIA / Recog Analytics del I Hackathon IABiomed 2026**, trabajando sobre interoperabilidad y humanización de información médica.
+- Fuí **finalista del Reto Dapta del Hackathon 30x**, trabajando sobre captación de leads en fuentes publicas y contabilidad por lead calificado .
 - **Tercer puesto a nivel nacional en España** con [OpenRoute](https://github.com/ComunidadIA-OS/OpenRoute), una solución open source para optimización inteligente de rutas de reparto.
 - Soy cofundador de **Oryzz**, donde construimos soluciones de publicidad, automatización, IA y producto digital para empresas.
 - También estamos construyendo [**Oryzz Tap**](https://oryzz.com/tap), nuestro e-commerce de productos NFC + QR para negocios, actualmente utilizado por **más de 15 clientes**.
