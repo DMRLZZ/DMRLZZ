@@ -59,7 +59,7 @@ Soy cofundador de [**Oryzz**](https://oryzz.com), donde combinamos tecnología, 
 | Producto / proyecto | Qué hacemos |
 | --- | --- |
 | [**Oryzz**](https://oryzz.com) | Sistemas de captación para empresas combinando Meta Ads, Google Ads, TikTok Ads, automatización, IA, SEO local y GEO. |
-| [**Oryzz Tap**](https://oryzz.com/tap) | E-commerce y plataforma de productos físicos NFC + QR para negocios. Permite conectar reseñas, WhatsApp, menús, pagos, reservas, redes y otros destinos digitales desde un solo toque. Actualmente contamos con **15+ clientes**. |
+| [**Oryzz Tap**](https://oryzz.com/tap) | E-commerce y plataforma de productos físicos NFC + QR para negocios. Permite conectar reseñas, WhatsApp, menús, pagos, reservas, redes y otros destinos digitales desde un solo toque. Actualmente contamos con **30+ clientes**. |
 | **Productos digitales** | Diseñamos y desarrollamos webs, automatizaciones, sistemas internos y experiencias digitales para clientes de distintos sectores. |
 
 ---
